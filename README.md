@@ -1,5 +1,5 @@
-## A translation project for a Chinese version of 'Swift Programming Language'.
-## 中文版 'The Swift Programming Language' 翻译计划。
+A translation project for a Chinese version of 'Swift Programming Language'.
+中文版 'Swift编程语言' 翻译计划。
 
 ## 引言
 
