@@ -1,9 +1,12 @@
 PeipeiShang-The-Swift-Programming-Language-CN-Translation-Project
 =================================================================
 
+Intro
+=================================================================
+
 A translation project for a Chinese version of 'Swift Programming Language'.
 
-中文版 'The Swift Programming Language' 翻译计划。
+中文版 'Swift编程语言' 翻译计划。
 
 
 I've got a bachelor's degree in English Translation, and now a Technical Writer in a IT company. I have great interests in coding, reading 'A Byte of Python', not finished yet. I'm quite glad that I can see the rising of a new language who has a rich dad. I want to be part of it and contribute to it. Therefore, I started this repository.    
