@@ -10,7 +10,7 @@ SwiftµÄ¿ª·¢ÒÑ¾­ºÄÊ±ÊýÄê¡£Æ»¹û¹«Ë¾Æ¾½è¶Ô¼ÈÓÐ±àÒëÆ÷¡¢µ÷ÊÔÆ÷¼°¿ò¼Ü»ù´¡ÉèÊ©µÄ¸Ä½øºÍÍ
 
 ÊìÏ¤Object-CµÄ¿ª·¢Õß¶ÔSwift²¢²»»á¸Ðµ½Ä°Éú¡£Ëü¼Ì³ÐÁËObject-CÔÚÃüÃû²ÎÊýÉÏµÄ¿É¶ÁÐÔ£¬ÒÔ¼°ÔÚ¶¯Ì¬¶ÔÏóÄ£ÐÍÉÏµÄÇ¿´ó¹¦ÄÜ¡£ËüÓë¼ÈÓÐµÄCocoa¿ò¼ÜÎÞ·ìÏÎ½Ó£¬Í¬Ê±ÓÖÄÜÓëObject-C´úÂëµÄ»ìºÏ»¥Í¨¡£»ùÓÚÒÔÉÏ¹²Í¬µã£¬SwiftÒýÈëÁËÐí¶àÈ«ÐÂµÄ¹¦ÄÜÌØÐÔ£¬²¢ÇÒÕûºÏÁËÓïÑÔÖÐÃæÏò¹ý³Ì¼°ÃæÏò¶ÔÏóµÄ¸÷¸ö²¿·Ö¡£
 
-Swift¶ÔÐÂÊÖ¿ª·¢ÕßÍ¬ÑùÓÑºÃ¡£ËüÊÇµÚÒ»ÃÅºÍ½Å±¾ÓïÑÔÒ»Ñù¸»ÓÐ±íÏÖÁ¦ÇÒÁîÈËÓäÔÃµÄ¹¤ÒµÖÊÁ¿ÏµÍ³±à³ÌÓïÑÔ¡£ËüÖ§³ÖÒ»ÖÖ±»³ÆÎª¡°playground¡±µÄ¸ïÃüÐÔÐÂÌØÐÔ£¬Ê¹µÃ¿ª·¢ÕßÔÚÎ´¶ÔÔ´´úÂë½øÐÐ¹¹½¨»òÕßÔËÐÐÒ»¸öÓ¦ÓÃ³ÌÐòµÄÇ°ÌáÏÂ£¬ÄÜ¹»Ö±½Ó¿´¼ûÆäÔËÐÐ½á¹û¡£
+Swift¶ÔÐÂÊÖ¿ª·¢ÕßÍ¬ÑùÓÑºÃ¡£ËüÊÇµÚÒ»ÃÅ¼È¾ßÓÐ½Å±¾ÓïÑÔµÄ·á¸»±íÏÖÁ¦ºÍÈ¤Î¶ÐÔ£¬Í¬Ê±ÓÖ´ïµ½¹¤ÒµÉú²úÖÊÁ¿Ë®Æ½µÄÏµÍ³±à³ÌÓïÑÔ¡£ËüÖ§³ÖÒ»ÖÖ±»³ÆÎª¡°playground¡±µÄ¸ïÃüÐÔÐÂÌØÐÔ£¬Ê¹µÃ¿ª·¢ÕßÔÚÎ´¶ÔÔ´´úÂë½øÐÐ¹¹½¨»òÕßÔËÐÐÒ»¸öÓ¦ÓÃ³ÌÐòµÄÇ°ÌáÏÂ£¬ÄÜ¹»Ö±½Ó¿´¼ûÆäÔËÐÐ½á¹û¡£
 
 SwiftÊµÏÖÁËÏÖ´ú¼ÆËã»úÓïÑÔµÄÓÅÊÆÓëÆ»¹û·á¸»¹¤ÒµÎÄ»¯µÄÍêÃÀÈÚºÏ¡£³öÓÚÐÔÄÜ½Ç¶È£¬±àÒëÆ÷µÃµ½ÁËÓÅ»¯£¬¶ø´¦ÓÚ¿ª·¢½Ç¶È£¬ÓïÑÔ±¾ÉíÒ²µÃµ½ÁËÓÅ»¯£¬Á½Õß²¢Î´ÎªÊµÏÖÁíÒ»·½¶ø×÷³öÈÎºÎÍ×Ð­ºÍÈÃ²½¡£ËüÐ¡ÖÁ´òÓ¡³öÒ»¾ä¡°Hello, World¡±£¬´óÖÁ¹¹½¨Õû¸ö²Ù×÷ÏµÍ³£¬ÎÞËù²»ÄÜ¡£ÕâÒ»ÇÐÈÃSwift³ÉÎªÁË¿ª·¢ÕßÒÔ¼°Æ»¹û¶ÔÎ´À´µÄÒ»·ÝÎÈÍ×µÄÍ¶×Ê¡£
 
